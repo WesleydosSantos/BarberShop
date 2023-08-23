@@ -1,6 +1,6 @@
 # BarberShop
 
-Esse projeto visa ajudar uma barbearia fictícia com o cadastro e agendamento de clientes. Os requisitos foram pensados de acordo com o contexto real. 
+Aplicação desktop que visa ajudar uma barbearia fictícia com o cadastro e agendamento de clientes. Os requisitos foram pensados de acordo com o contexto real. 
 
 
 ## Tecnologias Utilizadas
